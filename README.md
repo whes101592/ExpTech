@@ -49,3 +49,7 @@
 
 ### 貢獻者
 • 開發人員 - whes1015
+Discord ot/Minecraft Java Plugin/Minecraft JavaScript Plugin/Python API/Arduino
+
+• 開發人員 - smile
+Discord Bot
