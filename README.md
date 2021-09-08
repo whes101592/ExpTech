@@ -54,6 +54,9 @@
 - Minecraft Plugin (JavaScript)
 - API (Python)
 - Arduino (C++)
+- Web (PHP)
+- Web (HTML)
+- Web (Hack)
 
 • 開發人員 - smile [終止合作 21.08.22]
 - Discord Bot (JavaScript)
