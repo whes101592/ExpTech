@@ -1,0 +1,4 @@
+name: Anti-cheat-whes1015
+main: com.whes1015.Anti.cheat.whes1015
+version: " 2.3.5-stable"
+api: ["1.0.13"]
