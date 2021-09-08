@@ -55,5 +55,5 @@
 - API (Python)
 - Arduino (C++)
 
-• 開發人員 - smile [終止合作]
+• 開發人員 - smile [終止合作 21.08.22]
 - Discord Bot (JavaScript)
