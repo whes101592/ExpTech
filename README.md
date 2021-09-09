@@ -43,8 +43,18 @@
 ### 文件目錄說明
 ```
 文件樹
-├── README.md
+├── apk
+├── app
+├── discord_bot
 ├── firmware
+├── image
+├── minecraft
+├── spiffs
+├── test
+├── web
+├── .gitignore
+├── LICENSE
+├── README.md
 ```
 
 ### 貢獻者
