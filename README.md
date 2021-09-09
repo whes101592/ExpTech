@@ -55,6 +55,7 @@
 │  │  └── FAN 1 Lite.ino
 │  ├── /stable/
 ├── image
+│  └── ExpTech.jpg
 ├── minecraft
 ├── spiffs
 ├── test
