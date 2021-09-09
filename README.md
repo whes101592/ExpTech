@@ -42,7 +42,9 @@
 
 ### 文件目錄說明
 ```
+
 文件樹
+
 ├── apk
 ├── app
 ├── discord_bot
@@ -55,6 +57,7 @@
 ├── .gitignore
 ├── LICENSE
 ├── README.md
+
 ```
 
 ### 貢獻者
